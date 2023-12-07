@@ -43,7 +43,7 @@ Este projeto foca na análise estatística e na modelagem preditiva do consumo d
 
 ### [Curry Company](https://github.com/loliveirads/curry-company)
 
-Como um negócio pode visualizar KPIs e resultados de negócios relevantes de relance para tomar melhores decisões baseadas em dados?
+[Dashboard](https://curry-company.onrender.com/) contendo KPIs e resultados de negócios relevantes de relance para tomar melhores decisões baseadas em dados?
 
 Repositório do projeto: https://github.com/loliveirads/curry-company
 
