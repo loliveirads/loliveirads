@@ -49,6 +49,12 @@ Repositório do projeto: https://github.com/loliveirads/curry-company
 
 ---
 
+### [Análise de dados de E-commerce](https://github.com/loliveirads/analise_site/tree/main)
+
+A empresa está tentando decidir se deve concentrar seus esforços em seu aplicativo de experiência móvel ou em seu website. Eles contrataram você na condição de cientista de dados contratado para ajudá-los a descobrir isso
+
+---
+
 # Ferramentas
 
 <table>
