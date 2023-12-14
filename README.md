@@ -36,6 +36,12 @@ Estou ansioso para contribuir em um ambiente desafiador e colaborativo, onde pos
 
 Este projeto foca na análise estatística e na modelagem preditiva do consumo de cerveja. Utilizamos dados diários para explorar padrões e influências significativas no consumo.
 
+---
+
+### [Segmentação de Clientes](https://github.com/loliveirads/client-segmentation)
+
+Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
+
 <br>
 
 
