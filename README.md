@@ -42,6 +42,11 @@ Este projeto foca na análise estatística e na modelagem preditiva do consumo d
 
 Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
 
+---
+### [Classificação Multiclasse](https://github.com/loliveirads/Classificacao_multiclasse/tree/main)
+
+Este projeto foca em desenvolver um modelo de classificação multiclasse.
+
 <br>
 
 
