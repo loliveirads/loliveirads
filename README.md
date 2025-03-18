@@ -52,6 +52,10 @@ Este projeto foca em desenvolver um modelo de classificação multiclasse.
 
 ### Análise de Dados & Painéis de Controle
 
+### [Dashboard Pet Shop](https://app.powerbi.com/view?r=eyJrIjoiOGViYThlNDktMTA0OC00MDUwLWIwOWYtYWY3MTQ2ZmQxMmM1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+
+Dashboard desenvolvido para responder perguntas de negócios de um pet shop.
+
 ### [Curry Company](https://github.com/loliveirads/curry-company)
 
 [Dashboard](https://curry-company.onrender.com/) contendo KPIs e resultados de negócios relevantes de relance para tomar melhores decisões baseadas em dados?
