@@ -38,6 +38,21 @@ Este projeto foca na análise estatística e na modelagem preditiva do consumo d
 
 ---
 
+### [Decisão Estratégica em Logística com Ciência de Dados](https://github.com/loliveirads/decisao-estrategica-logistica-ciencia-dados)
+
+📍 Através da segmentação com KMeans e visualização interativa com mapas, foi possível recomendar localizações ideais para novos centros de distribuição com base em dados reais.
+
+📊 Além disso, cruzei volume de entregas com valor financeiro movimentado para orientar decisões logísticas de forma mais eficiente.
+
+💡 Técnicas aplicadas:
+- EDA
+- Clusterização com KMeans
+- Método do Cotovelo
+- Geocodificação reversa com Geopy
+- Visualização com Folium e Matplotlib
+
+  ---
+  
 ### [Segmentação de Clientes](https://github.com/loliveirads/client-segmentation)
 
 Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
