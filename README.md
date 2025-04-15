@@ -52,7 +52,23 @@ Este projeto foca na análise estatística e na modelagem preditiva do consumo d
 - Visualização com Folium e Matplotlib
 
   ---
-  
+
+### [Segmentação de Clientes com Machine Learning e Visual Analytics](https://github.com/loliveirads/projeto_clusterizacao)
+
+📍 Através de análise exploratória, engenharia de atributos e clusterização com K-Means, identifiquei **4 perfis estratégicos de clientes** com base em comportamento de compra, valor movimentado e engajamento com canais de venda.
+
+📊 Os dados foram transformados em **insights visuais e acionáveis** com auxílio do Power BI, permitindo decisões orientadas por dados para campanhas, retenção e ações personalizadas por cluster.
+
+💡 Técnicas aplicadas:
+- Análise Exploratória (EDA)
+- Engenharia de Atributos (com pesos estratégicos)
+- Clusterização com K-Means
+- Método do Cotovelo (Elbow Method)
+- Normalização e tratamento de outliers
+- Visualização interativa com Power BI
+
+---
+
 ### [Segmentação de Clientes](https://github.com/loliveirads/client-segmentation)
 
 Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
