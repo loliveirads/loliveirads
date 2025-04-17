@@ -32,9 +32,18 @@ Estou ansioso para contribuir em um ambiente desafiador e colaborativo, onde pos
 
 ### Ciência de Dados & Aprendizado de Máquina
 
-### [Consumo de Cerveja - Previsão do consumo de Cerveja](https://github.com/loliveirads/Consumo_cerveja)
+### [Análise de ROI em Campanhas Publicitárias](https://github.com/loliveirads/analise_roi)
 
-Este projeto foca na análise estatística e na modelagem preditiva do consumo de cerveja. Utilizamos dados diários para explorar padrões e influências significativas no consumo.
+📈 Projeto de regressão linear voltado para prever o aumento de vendas com base no valor investido e no tipo de mídia utilizada em campanhas publicitárias.
+
+🔎 Através da análise dos coeficientes do modelo, foi possível identificar quais canais trazem maior retorno (ROI) e simular diferentes cenários de investimento.
+
+💡 Técnicas aplicadas:
+- Regressão Linear com Scikit-learn
+- Engenharia de variáveis com OneHotEncoder
+- Simulação de cenários com Pickle
+- Visualização de impacto por mídia
+- Gerenciamento com Poetry e execução via Jupyter
 
 ---
 
@@ -68,7 +77,11 @@ Este projeto foca na análise estatística e na modelagem preditiva do consumo d
 - Visualização interativa com Power BI
 
 ---
+### [Consumo de Cerveja - Previsão do consumo de Cerveja](https://github.com/loliveirads/Consumo_cerveja)
 
+Este projeto foca na análise estatística e na modelagem preditiva do consumo de cerveja. Utilizamos dados diários para explorar padrões e influências significativas no consumo.
+
+---
 ### [Segmentação de Clientes](https://github.com/loliveirads/client-segmentation)
 
 Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
