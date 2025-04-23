@@ -94,7 +94,20 @@ Este projeto foca em desenvolver um modelo de classificação multiclasse.
 <br>
 
 
-### Análise de Dados & Painéis de Controle
+### Análise de Dados & Dashboards
+
+📊 [Dashboard Livraria](https://app.powerbi.com/groups/me/reports/af583705-343d-44df-8b34-b48d8f89674b/ReportSection851bf9d7d35821a9a780?language=pt-BR&experience=power-bi)
+🔗 Acesse o Dashboard no Power BI
+
+Este dashboard foi desenvolvido com o objetivo de apresentar uma análise visual e interativa dos dados explorados ao longo do projeto. Nele, é possível:
+
+Visualizar tendências e padrões relevantes de forma clara e intuitiva;
+
+Realizar filtragens dinâmicas para insights personalizados;
+
+Observar a distribuição de variáveis chave e comparações entre grupos.
+
+A ferramenta utilizada foi o Microsoft Power BI, que permite uma experiência rica e responsiva para exploração de dados.
 
 ### [Dashboard Pet Shop](https://app.powerbi.com/view?r=eyJrIjoiOGViYThlNDktMTA0OC00MDUwLWIwOWYtYWY3MTQ2ZmQxMmM1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
