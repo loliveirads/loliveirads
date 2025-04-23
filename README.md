@@ -96,7 +96,7 @@ Este projeto foca em desenvolver um modelo de classificação multiclasse.
 
 ### Análise de Dados & Dashboards
 
-### [Dashboard Livraria](https://app.powerbi.com/groups/me/reports/af583705-343d-44df-8b34-b48d8f89674b/ReportSection851bf9d7d35821a9a780?language=pt-BR&experience=power-bi)
+### [Dashboard Livraria](https://app.powerbi.com/view?r=eyJrIjoiMzU2MGM2NTgtODJmMC00MzkyLWFlZjctNzdiN2RlZWY5NzZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 🔗 Acesse o Dashboard no Power BI
 
