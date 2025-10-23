@@ -96,6 +96,26 @@ Este projeto foca em desenvolver um modelo de classificação multiclasse.
 
 # Análise de Dados & Dashboards
 
+### 📊 [Dashboard de Análise de Faltas](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+
+Este painel foi desenvolvido para monitorar e analisar o absenteísmo dos colaboradores de forma clara e dinâmica, permitindo identificar padrões, comparar períodos e compreender os motivos das ausências por filial e departamento.
+
+🎯 Objetivo
+
+Oferecer uma visão consolidada das faltas e afastamentos por motivos médicos, com foco em subsidiar decisões estratégicas de gestão de pessoas, saúde ocupacional e recursos humanos.
+
+📈 Principais Indicadores
+
+📆 Quantidade de Faltas por Mês: acompanhamento mensal para identificar picos e sazonalidades.
+
+🩺 Faltas com e sem Atestado Médico: distinção clara entre ausências justificadas e não justificadas.
+
+🏢 Faltas por Filial: comparação do comportamento de absenteísmo entre diferentes unidades.
+
+🏬 Dias de Afastamento por Departamento: distribuição dos afastamentos entre áreas (ex.: Comercial, Jurídico, Financeiro, etc.).
+
+
+
 ### [Dashboard Livraria](https://app.powerbi.com/view?r=eyJrIjoiMzU2MGM2NTgtODJmMC00MzkyLWFlZjctNzdiN2RlZWY5NzZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 🔗 Acesse o Dashboard no Power BI
