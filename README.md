@@ -94,7 +94,7 @@ Este projeto foca em desenvolver um modelo de classificação multiclasse.
 <br>
 
 
-## Análise de Dados & Dashboards
+# Análise de Dados & Dashboards
 
 ### [Dashboard Livraria](https://app.powerbi.com/view?r=eyJrIjoiMzU2MGM2NTgtODJmMC00MzkyLWFlZjctNzdiN2RlZWY5NzZlIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
@@ -110,9 +110,23 @@ Observar a distribuição de variáveis chave e comparações entre grupos.
 
 A ferramenta utilizada foi o Microsoft Power BI, que permite uma experiência rica e responsiva para exploração de dados.
 
-### [Dashboard Pet Shop](https://app.powerbi.com/view?r=eyJrIjoiOGViYThlNDktMTA0OC00MDUwLWIwOWYtYWY3MTQ2ZmQxMmM1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+### [Gatito Petshop Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGViYThlNDktMTA0OC00MDUwLWIwOWYtYWY3MTQ2ZmQxMmM1IiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
-Dashboard desenvolvido para responder perguntas de negócios de um pet shop.
+
+Este projeto apresenta um dashboard interativo desenvolvido para análise de desempenho do Gatito Petshop, com foco na visualização de métricas de vendas, faturamento e comportamento dos clientes.
+O painel foi criado com uma identidade visual personalizada e intuitiva, permitindo acompanhar os principais indicadores do negócio ao longo do tempo.
+
+🎯 Objetivo
+
+Fornecer uma visão consolidada do faturamento e comportamento dos clientes, auxiliando na tomada de decisões estratégicas sobre produtos, regiões e perfis de consumidores.
+
+📊 Principais Indicadores
+
+💰 Total de Faturamento: R$ 2,03 milhões
+
+🐶 Média de Pets por Cliente: 2,61
+
+📦 Produtos Vendidos: 57 mil unidades
 
 ### [Curry Company](https://github.com/loliveirads/curry-company)
 
