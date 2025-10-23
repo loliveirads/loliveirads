@@ -32,7 +32,8 @@ Estou ansioso para contribuir em um ambiente desafiador e colaborativo, onde pos
 # Análise de Dados & Dashboards
 
 ### 📊 [Dashboard RH: Análise de Faltas](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
-[Acesse aqui !]((https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+
+[Acesse aqui !](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 💼 Dashboard de Recursos Humanos — Análise de Faltas e Folha de Pagamento
 
 Este projeto apresenta um conjunto de dashboards interativos desenvolvidos em Power BI com o objetivo de fornecer insights estratégicos para a gestão de pessoas, a partir da análise de absenteísmo e folha de pagamento.
