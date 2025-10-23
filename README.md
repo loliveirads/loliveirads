@@ -31,7 +31,7 @@ Estou ansioso para contribuir em um ambiente desafiador e colaborativo, onde pos
 # Projetos
 # Análise de Dados & Dashboards
 
-### 📊 [Dashboard de Análise de Faltas](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
+### 📊 [Dashboard RH: Análise de Faltas](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
 Este painel foi desenvolvido para monitorar e analisar o absenteísmo dos colaboradores de forma clara e dinâmica, permitindo identificar padrões, comparar períodos e compreender os motivos das ausências por filial e departamento.
 
