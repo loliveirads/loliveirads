@@ -8,7 +8,7 @@ Dados são o combustível para modelos de aprendizado de máquina que são const
 
 Analisar dados para extrair insights significativos que irão alavancar seu negócio. Os achados são claramente apresentados em relatórios ou ferramentas.
 
-### :bar_chart: Painéis de Controle
+### :bar_chart: Dashboards
 
 Visualizar e interagir com os dados é um dos primeiros passos para examinar tendências e padrões. Veja os KPIs mais importantes e resultados de relance.
 
@@ -29,71 +29,6 @@ Estou ansioso para contribuir em um ambiente desafiador e colaborativo, onde pos
 ---
 
 # Projetos
-
-### Ciência de Dados & Aprendizado de Máquina
-
-### [Análise de ROI em Campanhas Publicitárias](https://github.com/loliveirads/analise_roi)
-
-📈 Projeto de regressão linear voltado para prever o aumento de vendas com base no valor investido e no tipo de mídia utilizada em campanhas publicitárias.
-
-🔎 Através da análise dos coeficientes do modelo, foi possível identificar quais canais trazem maior retorno (ROI) e simular diferentes cenários de investimento.
-
-💡 Técnicas aplicadas:
-- Regressão Linear com Scikit-learn
-- Engenharia de variáveis com OneHotEncoder
-- Simulação de cenários com Pickle
-- Visualização de impacto por mídia
-- Gerenciamento com Poetry e execução via Jupyter
-
----
-
-### [Decisão Estratégica em Logística com Ciência de Dados](https://github.com/loliveirads/decisao-estrategica-logistica-ciencia-dados)
-
-📍 Através da segmentação com KMeans e visualização interativa com mapas, foi possível recomendar localizações ideais para novos centros de distribuição com base em dados reais.
-
-📊 Além disso, cruzei volume de entregas com valor financeiro movimentado para orientar decisões logísticas de forma mais eficiente.
-
-💡 Técnicas aplicadas:
-- EDA
-- Clusterização com KMeans
-- Método do Cotovelo
-- Geocodificação reversa com Geopy
-- Visualização com Folium e Matplotlib
-
-  ---
-
-### [Segmentação de Clientes com Machine Learning e Visual Analytics](https://github.com/loliveirads/projeto_clusterizacao)
-
-📍 Através de análise exploratória, engenharia de atributos e clusterização com K-Means, identifiquei **4 perfis estratégicos de clientes** com base em comportamento de compra, valor movimentado e engajamento com canais de venda.
-
-📊 Os dados foram transformados em **insights visuais e acionáveis** com auxílio do Power BI, permitindo decisões orientadas por dados para campanhas, retenção e ações personalizadas por cluster.
-
-💡 Técnicas aplicadas:
-- Análise Exploratória (EDA)
-- Engenharia de Atributos (com pesos estratégicos)
-- Clusterização com K-Means
-- Método do Cotovelo (Elbow Method)
-- Normalização e tratamento de outliers
-- Visualização interativa com Power BI
-
----
-### [Consumo de Cerveja - Previsão do consumo de Cerveja](https://github.com/loliveirads/Consumo_cerveja)
-
-Este projeto foca na análise estatística e na modelagem preditiva do consumo de cerveja. Utilizamos dados diários para explorar padrões e influências significativas no consumo.
-
----
-### [Segmentação de Clientes](https://github.com/loliveirads/client-segmentation)
-
-Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
-
----
-### [Classificação Multiclasse](https://github.com/loliveirads/Classificacao_multiclasse/tree/main)
-
-Este projeto foca em desenvolver um modelo de classificação multiclasse.
-
-<br>
-
-
 # Análise de Dados & Dashboards
 
 ### 📊 [Dashboard de Análise de Faltas](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
@@ -161,6 +96,71 @@ Repositório do projeto: https://github.com/loliveirads/curry-company
 A empresa está tentando decidir se deve concentrar seus esforços em seu aplicativo de experiência móvel ou em seu website. Eles contrataram você na condição de cientista de dados contratado para ajudá-los a descobrir isso
 
 ---
+### Ciência de Dados & Aprendizado de Máquina
+
+### [Análise de ROI em Campanhas Publicitárias](https://github.com/loliveirads/analise_roi)
+
+📈 Projeto de regressão linear voltado para prever o aumento de vendas com base no valor investido e no tipo de mídia utilizada em campanhas publicitárias.
+
+🔎 Através da análise dos coeficientes do modelo, foi possível identificar quais canais trazem maior retorno (ROI) e simular diferentes cenários de investimento.
+
+💡 Técnicas aplicadas:
+- Regressão Linear com Scikit-learn
+- Engenharia de variáveis com OneHotEncoder
+- Simulação de cenários com Pickle
+- Visualização de impacto por mídia
+- Gerenciamento com Poetry e execução via Jupyter
+
+---
+
+### [Decisão Estratégica em Logística com Ciência de Dados](https://github.com/loliveirads/decisao-estrategica-logistica-ciencia-dados)
+
+📍 Através da segmentação com KMeans e visualização interativa com mapas, foi possível recomendar localizações ideais para novos centros de distribuição com base em dados reais.
+
+📊 Além disso, cruzei volume de entregas com valor financeiro movimentado para orientar decisões logísticas de forma mais eficiente.
+
+💡 Técnicas aplicadas:
+- EDA
+- Clusterização com KMeans
+- Método do Cotovelo
+- Geocodificação reversa com Geopy
+- Visualização com Folium e Matplotlib
+
+  ---
+
+### [Segmentação de Clientes com Machine Learning e Visual Analytics](https://github.com/loliveirads/projeto_clusterizacao)
+
+📍 Através de análise exploratória, engenharia de atributos e clusterização com K-Means, identifiquei **4 perfis estratégicos de clientes** com base em comportamento de compra, valor movimentado e engajamento com canais de venda.
+
+📊 Os dados foram transformados em **insights visuais e acionáveis** com auxílio do Power BI, permitindo decisões orientadas por dados para campanhas, retenção e ações personalizadas por cluster.
+
+💡 Técnicas aplicadas:
+- Análise Exploratória (EDA)
+- Engenharia de Atributos (com pesos estratégicos)
+- Clusterização com K-Means
+- Método do Cotovelo (Elbow Method)
+- Normalização e tratamento de outliers
+- Visualização interativa com Power BI
+
+---
+### [Consumo de Cerveja - Previsão do consumo de Cerveja](https://github.com/loliveirads/Consumo_cerveja)
+
+Este projeto foca na análise estatística e na modelagem preditiva do consumo de cerveja. Utilizamos dados diários para explorar padrões e influências significativas no consumo.
+
+---
+### [Segmentação de Clientes](https://github.com/loliveirads/client-segmentation)
+
+Este projeto foca na segmentação de clientes de um e-commerce. Utilizamos a base de dados da olist.
+
+---
+### [Classificação Multiclasse](https://github.com/loliveirads/Classificacao_multiclasse/tree/main)
+
+Este projeto foca em desenvolver um modelo de classificação multiclasse.
+
+<br>
+
+
+
 
 # Ferramentas
 
