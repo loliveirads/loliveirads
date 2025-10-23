@@ -33,21 +33,19 @@ Estou ansioso para contribuir em um ambiente desafiador e colaborativo, onde pos
 
 ### 📊 [Dashboard RH: Análise de Faltas](https://app.powerbi.com/view?r=eyJrIjoiOTMyZDg5NjItMjA0YS00Mjk4LWI4M2EtMDExNTFlYTg5NzlmIiwidCI6IjExZGJiZmUyLTg5YjgtNDU0OS1iZTEwLWNlYzM2NGU1OTU1MSIsImMiOjR9)
 
-Este painel foi desenvolvido para monitorar e analisar o absenteísmo dos colaboradores de forma clara e dinâmica, permitindo identificar padrões, comparar períodos e compreender os motivos das ausências por filial e departamento.
+💼 Dashboard de Recursos Humanos — Análise de Faltas e Folha de Pagamento
 
-🎯 Objetivo
+Este projeto apresenta um conjunto de dashboards interativos desenvolvidos em Power BI com o objetivo de fornecer insights estratégicos para a gestão de pessoas, a partir da análise de absenteísmo e folha de pagamento.
 
-Oferecer uma visão consolidada das faltas e afastamentos por motivos médicos, com foco em subsidiar decisões estratégicas de gestão de pessoas, saúde ocupacional e recursos humanos.
+A solução foi construída para apoiar o departamento de Recursos Humanos no acompanhamento de métricas de produtividade, custos e comportamento dos colaboradores, permitindo uma visão completa do desempenho interno por ano, filial e departamento.
 
-📈 Principais Indicadores
+🎯 Objetivo do Projeto
 
-📆 Quantidade de Faltas por Mês: acompanhamento mensal para identificar picos e sazonalidades.
+Fornecer uma visão integrada sobre ausências e afastamentos por funcionário, período e setor.
 
-🩺 Faltas com e sem Atestado Médico: distinção clara entre ausências justificadas e não justificadas.
+Acompanhar a evolução da folha de pagamento e dos benefícios corporativos.
 
-🏢 Faltas por Filial: comparação do comportamento de absenteísmo entre diferentes unidades.
-
-🏬 Dias de Afastamento por Departamento: distribuição dos afastamentos entre áreas (ex.: Comercial, Jurídico, Financeiro, etc.).
+Apoiar decisões de planejamento de pessoal, controle de custos trabalhistas e saúde organizacional.
 
 
 
